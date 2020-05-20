@@ -19,9 +19,11 @@
 
 ■　工具類
 ----------------------------------------------------------------------------------
-- 半田コテ
-
+半田コテ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: http://www.hakko.com/japan/images/products/products_hakko_fx950_img.jpg
+    :width: 236px
+    :height: 194px
 
 :メーカー: HAKKO
 :型番: FX950-01 		
@@ -36,9 +38,12 @@
 
 電子機器で食っていくぞ！と決めたら最初に買うべき。
 
-- ニッパー　(小型)
+ニッパー　(小型)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: https://www.hozan.co.jp/images/catalog/tools/main/N-34_01.jpg
+    :width: 236px
+    :height: 194px
 
 :メーカー: ホーザーン
 :型番: N-34　ミニチュアニッパー		
@@ -53,9 +58,12 @@
 
 その為、ニッパーは次の大型も持って、使い分けて運用すれば１年は持つ。
 
-- ニッパー
+ニッパー
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: https://www.hozan.co.jp/images/catalog/tools/main/N-9-150.jpg
+    :width: 236px
+    :height: 194px
 
 :メーカー: ホーザーン
 :型番: N-9 ニッパー（ストリップ穴付） N-9-125
@@ -68,9 +76,12 @@
 
 バネが無い為、自分で開け閉めをするんだけど、そこが逆に良くて気にいってる。
 
-- ラジオペンチ
+ラジオペンチ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: https://www.hozan.co.jp/images/catalog/tools/main/P-22.jpg
+    :width: 236px
+    :height: 194px
 
 :メーカー: ホーザーン
 :型番: P-22　ラジオペンチ	
@@ -81,9 +92,12 @@
 
 基板から取り出したり、部品をあえて壊したい時に使ったりするかな。力を入れても大丈夫な感じで気に入ってる。
 
-- ピンセット
+ピンセット
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: https://www.hozan.co.jp/images/catalog/Tweezers/main/PP-133_01.jpg
+    :width: 236px
+    :height: 194px
 
 :メーカー: ホーザーン
 :型番: PP-133　ピンセット
@@ -96,8 +110,14 @@
 
 とは言え、プラスチックピンセットよりも断然、力が伝わるので、チップ部品のフィルムはがしとかに使用してる。
 
-- マット
+マット
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: https://www.hozan.co.jp/images/catalog/Static_Control/main/F-310-L.jpg
+    :width: 236px
+    :height: 194px
+    
+:メーカー: ホーザーン
 :型番: F-310-L　ESD卓上マット
 :URL: https://www.hozan.co.jp/catalog/Static_Control/F-310.html
 :値段: 1台  1,881円（税込） 
