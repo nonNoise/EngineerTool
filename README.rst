@@ -116,7 +116,7 @@
 .. image:: https://www.hozan.co.jp/images/catalog/Static_Control/main/F-310-L.jpg
     :width: 236px
     :height: 194px
-    
+
 :メーカー: ホーザーン
 :型番: F-310-L　ESD卓上マット
 :URL: https://www.hozan.co.jp/catalog/Static_Control/F-310.html
@@ -138,8 +138,15 @@
 ■　計測器類
 ----------------------------------------------------------------------------------
 
-- オシロスコープ
 
+オシロスコープ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: http://akizukidenshi.com/img/goods/C/M-07229.jpg
+    :width: 236px
+    :height: 194px
+
+:メーカー: Pico Technology
 :型番: Picoscope 2205A
 :URL: http://akizukidenshi.com/catalog/g/gM-07229/
 :値段: 1台 ￥27,540（税込） 
@@ -156,8 +163,14 @@ Win,Mac,Linuxに対応しているので、使えない場面は滅多にない�
 
 波形発生器機能：DC~100kHz　この値段で波形出力がついてくるの驚き。
 
-- ロジアナ
+ロジアナ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: http://akizukidenshi.com/img/goods/L/M-11840.jpg
+    :width: 236px
+    :height: 194px
+
+:メーカー: Digilent Inc.
 :型番: Digital Discovery
 :URL: http://akizukidenshi.com/catalog/g/gM-11840/
 :値段: 1台　￥24,300（税込） 
@@ -174,8 +187,14 @@ UARTやI2CやSPIなどデータ解析機能もあります。
 
 立ち上がり立ち下がりをトリガーにすることも可能
 
-- テスター
+テスター
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: http://akizukidenshi.com/img/goods/L/M-09632.jpg
+    :width: 236px
+    :height: 194px
+
+:メーカー: LILIPUT OWON
 :型番: DMM D-35
 :URL: http://akizukidenshi.com/catalog/g/gM-09632/
 :値段: 1台 ￥4,400（税込） 
@@ -188,6 +207,11 @@ Bluetooth無線機能版もあるけど、長年使うなら無しの方が良�
 ■　安定化電源 
 ----------------------------------------------------------------------------------
 
+.. image:: https://www.aandd.co.jp/image_storage/sp/ad8723d_m01.jpg
+    :width: 236px
+    :height: 194px
+
+:メーカー: 株式会社エー・アンド・デイ
 :型番: 直流安定化電源 AD-8723D
 :URL: https://www.aandd.co.jp/products/electronic/electrical_measuring_equipment/sp-dc_power_supply/ad8723d/
 :値段: 1台 ￥15,950（税込） 
@@ -216,12 +240,12 @@ Bluetooth無線機能版もあるけど、長年使うなら無しの方が良�
 ただ、買いすぎたと思うことはないでしょう。
 
 
-■　合計金額は・・・　税込み 114,639円 !!!!
+■　合計金額は・・・　税込み 112,681円 !!!!
 -----------------------------------------------------------------------------------
 
 あぁぁぁぁぁぁ！！若干超えてるぅぅぅぅ！！
 
-税抜きだと・・・・　104217円・・・微妙！！！
+税抜きだと・・・・　102437円・・・微妙！！！
 
 なのでね、皆様は是非、定価で考えず、販売店にて価格を計算した方が良いですね。多少安くなっているはず。
 
