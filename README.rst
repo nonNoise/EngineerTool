@@ -20,8 +20,7 @@
 ■　作者紹介
 ----------------------------------------------------------------------------------
 
-.. image:: https://pbs.twimg.com/profile_images/1112899535087394816/StQGLwzC_400x400.png
-
+.. image:: ./img/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313131323839393533353038373339343831362f537451474c777a435f343030783430302e706e67.png
 :Twitter: @nonNoise
 
 
@@ -49,7 +48,7 @@
 ニッパー　(小型)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: https://www.hozan.co.jp/images/catalog/tools/main/N-34_01.jpg
+.. image:: ./img/68747470733a2f2f7777772e686f7a616e2e636f2e6a702f696d616765732f636174616c6f672f746f6f6c732f6d61696e2f4e2d33345f30312e6a7067.jpeg
     :width: 236px
     :height: 194px
 
@@ -69,7 +68,7 @@
 ニッパー
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: https://www.hozan.co.jp/images/catalog/tools/main/N-9-150.jpg
+.. image:: ./img/68747470733a2f2f7777772e686f7a616e2e636f2e6a702f696d616765732f636174616c6f672f746f6f6c732f6d61696e2f4e2d392d3135302e6a7067.jpeg
     :width: 236px
     :height: 194px
 
@@ -87,7 +86,7 @@
 ラジオペンチ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: https://www.hozan.co.jp/images/catalog/tools/main/P-22.jpg
+.. image:: ./img/68747470733a2f2f7777772e686f7a616e2e636f2e6a702f696d616765732f636174616c6f672f746f6f6c732f6d61696e2f502d32322e6a7067.jpeg
     :width: 236px
     :height: 194px
 
@@ -103,7 +102,7 @@
 ピンセット
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: https://www.hozan.co.jp/images/catalog/Tweezers/main/PP-133_01.jpg
+.. image:: ./img/68747470733a2f2f7777772e686f7a616e2e636f2e6a702f696d616765732f636174616c6f672f547765657a6572732f6d61696e2f50502d3133335f30312e6a7067.jpeg
     :width: 236px
     :height: 194px
 
@@ -121,7 +120,7 @@
 マット
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: https://www.hozan.co.jp/images/catalog/Static_Control/main/F-310-L.jpg
+.. image:: ./img/8747470733a2f2f7777772e686f7a616e2e636f2e6a702f696d616765732f636174616c6f672f5374617469635f436f6e74726f6c2f6d61696e2f462d3331302d4c2e6a7067.jpeg
     :width: 236px
     :height: 194px
 
@@ -150,7 +149,7 @@
 オシロスコープ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: http://akizukidenshi.com/img/goods/C/M-07229.jpg
+.. image:: ./img/687474703a2f2f616b697a756b6964656e7368692e636f6d2f696d672f676f6f64732f432f4d2d30373232392e6a7067.jpeg
     :width: 236px
     :height: 194px
 
@@ -174,7 +173,7 @@ Win,Mac,Linuxに対応しているので、使えない場面は滅多にない�
 ロジアナ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: http://akizukidenshi.com/img/goods/L/M-11840.jpg
+.. image:: ./img/687474703a2f2f616b697a756b6964656e7368692e636f6d2f696d672f676f6f64732f4c2f4d2d31313834302e6a7067.jpeg
     :width: 236px
     :height: 194px
 
@@ -198,7 +197,7 @@ UARTやI2CやSPIなどデータ解析機能もあります。
 テスター
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: http://akizukidenshi.com/img/goods/L/M-09632.jpg
+.. image:: ./img/687474703a2f2f616b697a756b6964656e7368692e636f6d2f696d672f676f6f64732f4c2f4d2d30393633322e6a7067.jpeg
     :width: 236px
     :height: 194px
 
@@ -215,7 +214,7 @@ Bluetooth無線機能版もあるけど、長年使うなら無しの方が良�
 ■　安定化電源 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: https://www.aandd.co.jp/image_storage/sp/ad8723d_m01.jpg
+.. image:: ./img/ad8723d_m01.png
     :width: 236px
     :height: 194px
 
