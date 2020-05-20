@@ -52,7 +52,7 @@
     :width: 236px
     :height: 194px
 
-:メーカー: ホーザーン
+:メーカー: ホーザン
 :型番: N-34　ミニチュアニッパー		
 :URL: https://www.hozan.co.jp/catalog/tools/N-34.html
 :値段: 1台  3,201円（税込） 
@@ -72,7 +72,7 @@
     :width: 236px
     :height: 194px
 
-:メーカー: ホーザーン
+:メーカー: ホーザン
 :型番: N-9 ニッパー（ストリップ穴付） N-9-125
 :URL: https://www.hozan.co.jp/catalog/tools/N-9.html
 :値段: 1台  2,959円（税込） 
@@ -90,7 +90,7 @@
     :width: 236px
     :height: 194px
 
-:メーカー: ホーザーン
+:メーカー: ホーザン
 :型番: P-22　ラジオペンチ	
 :URL: https://www.hozan.co.jp/catalog/tools/P-22.html
 :値段: 1台  3,025円（税込） 
@@ -106,7 +106,7 @@
     :width: 236px
     :height: 194px
 
-:メーカー: ホーザーン
+:メーカー: ホーザン
 :型番: PP-133　ピンセット
 :URL: https://www.hozan.co.jp/catalog/Tweezers/PP-133.html
 :値段: 1台  3,025円（税込） 
@@ -124,7 +124,7 @@
     :width: 236px
     :height: 194px
 
-:メーカー: ホーザーン
+:メーカー: ホーザン
 :型番: F-310-L　ESD卓上マット
 :URL: https://www.hozan.co.jp/catalog/Static_Control/F-310.html
 :値段: 1台  1,881円（税込） 
